@@ -1,0 +1,1 @@
+# All Usage of kNm and optimization including all Data Types phylogeny vectorization of categorical data and clustering methodology IE: Manhattan, SVM also authorship.
